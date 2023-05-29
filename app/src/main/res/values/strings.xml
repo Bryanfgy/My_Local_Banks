@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="bank1">DBS</string>
+    <string name="bank2">OCBC</string>
+    <string name="bank3">UOB</string>
+    <string name="CB1">星展银行</string>
+    <string name="CB2">华侨银行</string>
+    <string name="CB3">大华银行</string>
+    <string name="Emenu1">Website</string>
+    <string name="Emenu2">Contact the bank</string>
+    <string name="Emenu3">Toggle favourite</string>
+    <string name="Cmenu1">银行网站</string>
+    <string name="Cmenu2">联系银行</string>
+    <string name="Cmenu3">切换收藏夹选项</string>
+    <string name="pN1">1800 + 1111111</string>
+    <string name="pN2">1800 + 3633333</string>
+    <string name="pN3">1800 + 2222121</string>
+    <string name="wb1">"https://www.DBS.com.sg"</string>
+    <string name="wb2">https://www.ocbc.com</string>
+    <string name="wb3">https://www.uob.com.sg</string>
+    /*------------------------------------------------*/
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
+    /*------------------------------------------------*/
+    <string name="error">"Error translation"</string>
+
+</resources>
